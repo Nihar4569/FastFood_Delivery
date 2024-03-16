@@ -24,8 +24,8 @@ export default function
                                 <option value="full">Full</option>
                             </select>
 
-                            <div className='d-inline h-100 fs-5'>
-                                Total Price
+                            <div className='d-relative h-100 w-200 fs-5'>
+                                Total Price:
                             </div>
                         </div>
                     </div>
